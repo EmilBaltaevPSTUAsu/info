@@ -1,0 +1,3 @@
+﻿  Set.cpp
+C:\VS\Информатика\labs\lab_6\Set.cpp(83): warning C4715: Set::operator[]: значение возвращается не при всех путях выполнения
+  lab_6.vcxproj -> C:\VS\Информатика\labs\Debug\lab_6.exe

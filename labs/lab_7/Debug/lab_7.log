@@ -1,0 +1,4 @@
+﻿  lab_7.cpp
+C:\VS\Информатика\labs\lab_7\Set.h(105): warning C4715: Set<int>::operator[]: значение возвращается не при всех путях выполнения
+C:\VS\Информатика\labs\lab_7\Set.h(105): warning C4715: Set<money>::operator[]: значение возвращается не при всех путях выполнения
+  lab_7.vcxproj -> C:\VS\Информатика\labs\Debug\lab_7.exe
